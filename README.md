@@ -11,7 +11,10 @@ Data was sourced from kaggle.com
 
 The data was visualized using Power Bi.
 
-![kaggle assignment](https://github.com/Adesewafunmi/globalgamesdata/assets/138725475/e8c43ca3-bfef-43ee-9d02-6f610486518b)
+![powerbigitub](https://github.com/Adesewafunmi/globalgamesdata/assets/138725475/1885c3d9-c119-4e78-99bd-474d584ddb9f)
+
+
+
 
 ##### 
 Insights
