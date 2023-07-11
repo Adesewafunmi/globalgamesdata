@@ -19,8 +19,9 @@ The data was visualized using Power Bi.
 ##### 
 Insights
 
-The most popular genre is the "Action"  genre. Hence , More games in the action genre should be considered in game development decisions.
- Over the years, North Ameica  generated the highest revenue with over $4000 sales with action genre leading the chart.
+The most popular genre is the "Action"  genre. Hence , games in the action genre should be considered in game development decisions.
+ Over the years, North America  generated the highest revenue with over $4000 sales with action genre leading the chart.
+ 
  
 
 
